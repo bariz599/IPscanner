@@ -94,6 +94,6 @@ Please ensure your code follows PEP 8 style guidelines and includes appropriate 
 License
 This project is licensed under the MIT License. See the LICENSE file for details.
 Contact
-For issues or suggestions, please open an issue on the GitHub repository or contact the maintainer at [your-email@example.com].
+For issues or suggestions, please open an issue on the GitHub repository or contact the maintainer at barizhaidari9@gmail.com.
 
 Developed by BARIZ for  Public use
